@@ -1,0 +1,32 @@
+body{
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+#mainheading{
+  text-align: center;
+  color: gray;
+}
+p{
+  font-size: 25px;
+  border-color: rgb(213, 127, 15);
+}
+table{
+  color: rgb(94, 7, 81);
+  border-color: aqua;
+  text-align: center;
+  
+  height: 10px;
+}
+.table-head{
+  color: rgb(13, 88, 63);
+}
+.tdata{
+
+}
+
+button{
+  border-radius: 5px;
+  background-color: crimson;
+  color: rgb(191, 228, 45);
+}
